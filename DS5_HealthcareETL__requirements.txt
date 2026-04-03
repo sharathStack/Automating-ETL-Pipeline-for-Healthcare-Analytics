@@ -1,0 +1,12 @@
+# Core data manipulation
+pandas>=2.1
+numpy>=1.26
+
+# Standard library (built-in, no pip install needed):
+#   sqlite3   — analytics warehouse (proxies Snowflake)
+#   hashlib   — SHA-256 patient anonymisation
+#   logging   — pipeline audit logging
+#   datetime  — load timestamps
+
+# Install command:
+#   pip install pandas numpy
