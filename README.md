@@ -1,4 +1,4 @@
-Automating ETL Pipeline for Healthcare Analytics
+# Automating ETL Pipeline for Healthcare Analytics
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![SQLite](https://img.shields.io/badge/DB-SQLite_(Snowflake_proxy)-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
