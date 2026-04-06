@@ -18,8 +18,12 @@ Run
 pip install -r DS5_HealthcareETL__requirements.txt
 python DS5_HealthcareETL__main.py
 ```
-Results
+## Results
+
 70% reduction in manual data processing time
+
 SHA-256 patient anonymisation built in
+
 Readmission risk flags for patients with LOS < 2 days + age > 65
+
 Denial rate analysis per payer surfaced from SQL queries
